@@ -1,4 +1,3 @@
-## 虞子傲，18117406178
 class Solution():
     def convert(self, str, numRows):
         num = numRows*2 -2
